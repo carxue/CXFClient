@@ -1,2 +1,3 @@
 # CXFClient
 cxf webservice客户端程序第一个该项目是一个webservice项目的客户端调用整合spring整体分为两个项目还有一个CXFserver项目将会在后面上传上去
+测试git本地copy提交到远处服务器
